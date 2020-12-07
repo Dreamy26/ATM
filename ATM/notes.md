@@ -28,6 +28,11 @@ The Account object will need to track the following:
 - Int Balance 
 
 ## CSharp SoSharp Notes
+- If properties are intialized without public or private VS automatically sets it to private.
+
+- Class is a blueprint or template. A class defines object properties including a valid range of values, and a default value, which also describes an object's behavior.
+
+- Object is a member or instance of a class, which also has states and behaviors in which all of its properties have values that you either explicitly define or that are defined by default settings.. 
 
 ## Resources
 

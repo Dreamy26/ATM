@@ -22,7 +22,7 @@ namespace ATM
             return "";
         }
 
-
+        // The following mthods should only work if there's a logged in account. 
         public bool Logout()
         {
             return true;
