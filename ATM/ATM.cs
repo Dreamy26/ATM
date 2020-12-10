@@ -12,14 +12,14 @@ namespace ATM
 
         }
 
-        public string Register(string name, string password)
+        public static void Register(string name, string password)
         {
-            return "";
+            
         }
 
-        public string Login(string userName, string password)
+        public static void Login(string userName, string password)
         {
-            return "";
+            
         }
 
         // The following mthods should only work if there's a logged in account. 

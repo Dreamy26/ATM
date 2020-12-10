@@ -1,23 +1,11 @@
 ﻿<Properties StartupConfiguration="{0927C1BA-39C7-437C-929B-9FC5D584B43D}|Default">
   <MonoDevelop.Ide.ItemProperties.ATM FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ATM/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ATM/ATM.cs">
     <Files>
       <File FileName="ATM/Program.cs" Line="13" Column="1" />
-      <File FileName="ATM/Account.cs" Line="10" Column="1" />
-      <File FileName="ATM/ATM.cs" Line="18" Column="10" />
-      <File FileName="ATM/notes.md" Line="41" Column="1" NotebookId="1" />
+      <File FileName="ATM/Account.cs" />
+      <File FileName="ATM/ATM.cs" Line="17" Column="13" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="OOPLabATM" expanded="True">
-            <Node name="ATM" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
